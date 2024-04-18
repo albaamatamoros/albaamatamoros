@@ -21,8 +21,6 @@ También he estudiado un grado medio "SMX" (Sistemas micro informáticos y redes
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=albaamatamoros&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## :page_with_curl: CURRICULUM
 
 Te invito a que le eches un vistazo :wink: :
