@@ -24,7 +24,7 @@ También he estudiado un grado medio "SMX" (Sistemas micro informáticos y redes
 ## :page_with_curl: CURRICULUM
 
 Te invito a que le eches un vistazo :wink: :
-[Alba Matamoros Morales cv ](https://github.com/albaamatamoros/PORTFOLIO/blob/main/DOCUMENTOS/Alba%20Matamoros%20cv%202024.pdf)
+[Alba Matamoros Morales cv ](https://github.com/albaamatamoros/PORTFOLIO/blob/main/DOCUMENTOS/CV%20Alba%20Matamoros%20Morales.pdf)
 
 ##  :collision: PROYECTOS
 
