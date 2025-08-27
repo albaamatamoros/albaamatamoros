@@ -1,8 +1,8 @@
 ##  :raising_hand: SOBRE MI...
 
-¡Hola! Soy Alba, estudiante de "DAW" (Desarrollo de Aplicaciones Web) Institut Sa Palomera Blanes.
+¡Hola! Soy Alba, ex estudiante de "DAW" (Desarrollo de Aplicaciones Web) Institut Sa Palomera Blanes.
 
-Tengo 22 años, soy de Blanes/Girona y me interesa mucho el mundo de la programación.
+Tengo 23 años, soy de Blanes/Girona y me interesa mucho el mundo de la programación.
 
 También he estudiado un grado medio "SMX" (Sistemas micro informáticos y redes) y un grado superior "Animación 3D, videojuegos y entornos interactivos".
 
